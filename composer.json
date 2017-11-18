@@ -7,6 +7,9 @@
         "larakit/sf-angular":"*"
     },
     "autoload": {
+        "psr-4": {
+            "Larakit\\": "src"
+        },
         "files": [
             "init.php"
         ]
