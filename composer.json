@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-recaptcha",
+    "description": "[Larakit] [staticfiles] angular-recaptcha",
+    "version": "1.5.9",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-angular":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
